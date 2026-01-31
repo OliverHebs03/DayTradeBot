@@ -1,0 +1,71 @@
+Educational Use License
+
+Copyright (c) 2026 MT5 Signal Generator Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software for personal educational and trading purposes, subject to the
+following conditions:
+
+PERMITTED USES:
+1. Personal use on demo or live trading accounts
+2. Modification of the Software for personal use
+3. Study and learning from the source code
+4. Use of the Software for developing trading skills
+
+PROHIBITED USES:
+1. Commercial redistribution or sale of the Software
+2. Removal or modification of safety features
+3. Distribution of modified versions without this license
+4. Use in financial advisory services without proper licensing
+5. Claiming authorship of the original work
+6. Using the Software to provide automated trading services to others
+
+DISCLAIMER OF WARRANTY:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+TRADING DISCLAIMER:
+This software generates trading signals for educational purposes only. It is
+NOT financial advice and does NOT guarantee profitable trading. Trading forex
+and other leveraged products carries substantial risk of loss. You may lose
+some or all of your invested capital.
+
+By using this software, you acknowledge that:
+- You understand the risks involved in forex trading
+- You are solely responsible for your trading decisions
+- Past performance does not guarantee future results
+- You will not hold the authors liable for any trading losses
+- You will start with a demo account before risking real capital
+- You have read and understood all documentation
+
+REGULATORY NOTICE:
+This software is designed for individual traders' personal use. If you intend
+to use trading signals for commercial purposes, distribute signals to others,
+or provide investment advice, you may need to comply with financial regulations
+in your jurisdiction. Consult with a legal professional if unsure.
+
+MODIFICATIONS:
+If you modify this software, you must:
+- Retain this license in all copies or substantial portions
+- Clearly indicate that changes were made
+- Not represent the modified version as the original
+- Continue to include all safety disclaimers
+
+SUPPORT:
+This software is provided as-is with no guarantee of support or updates.
+The authors are not obligated to fix bugs, add features, or provide assistance.
+
+JURISDICTION:
+This license shall be governed by and construed in accordance with the laws
+applicable to educational software tools.
+
+For questions about licensing or commercial use, contact the project maintainers
+through the official repository.
+
+Last updated: January 31, 2026
